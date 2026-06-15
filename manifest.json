@@ -1,768 +1,2404 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://fresenia.man.poznan.pl/dei/api/transcription/iiif/manifest?recordId=/2020601/https___1914_1918_europeana_eu_contributions_1747",
+  "id": "https://itr02.crossasia.org/fcrepo/rest/dllm/dllm_0005957/manifest",
   "type": "Manifest",
   "label": {
     "none": [
-      "Manifest for record /2020601/https___1914_1918_europeana_eu_contributions_1747"
+      "Nalaciva (ນະຣະຊີວະ)"
     ]
   },
-  "items": [
-    {
-      "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20278.original.tif",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 1"
-        ]
-      },
-      "height": 1046,
-      "width": 1600,
-      "items": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20278.original.tif/annotationpage/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20278.original.tif/annotation/0",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20278.original.tif",
-              "body": {
-                "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20278.original.tif/full/full/0/default.jpg",
-                "type": "Image",
-                "height": 1046,
-                "width": 1600,
-                "service": [
-                  {
-                    "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20278.original.tif",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20278.original.tif/annotations",
-          "@context": "https://www.w3.org/ns/anno.jsonld",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "item-39191714",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "value": "<p>&nbsp; <span class=\"pos-in-text\">&nbsp;Zeichnung eines Zugs von Kriegsgefangenen. Daneben ein auf der Spitze stehendes Dreieck mit den Buchstaben: </span>&nbsp;&nbsp;</p>\n<p>R e K</p>\n<p>&nbsp;</p>\n<p>Nachdruck verboten.</p>\n<p>Albanus'sche Buchdruckerei. Drsdn.</p>"
-              },
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20278.original.tif"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20279.original.tif",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 2"
-        ]
-      },
-      "height": 1048,
-      "width": 1600,
-      "items": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20279.original.tif/annotationpage/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20279.original.tif/annotation/0",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20279.original.tif",
-              "body": {
-                "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20279.original.tif/full/full/0/default.jpg",
-                "type": "Image",
-                "height": 1048,
-                "width": 1600,
-                "service": [
-                  {
-                    "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20279.original.tif",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20279.original.tif/annotations",
-          "@context": "https://www.w3.org/ns/anno.jsonld",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "item-39191715",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "value": "<p>&nbsp; <span class=\"pos-in-text\">&nbsp;Karte mit Zeichnung der t&auml;glichen Arbeiten von Kriegsgefangenen mit dem Signum des ReK (Reichsvereinigung ehemaliger Kriegsgefangener</span>&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p>Nachdruck verboten</p>\n<p>Verlag Albanus'sche Buchdruckerei Dresden</p>\n<p>&nbsp;</p>"
-              },
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20279.original.tif"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20280.original.tif",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 3"
-        ]
-      },
-      "height": 933,
-      "width": 1600,
-      "items": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20280.original.tif/annotationpage/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20280.original.tif/annotation/0",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20280.original.tif",
-              "body": {
-                "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20280.original.tif/full/full/0/default.jpg",
-                "type": "Image",
-                "height": 933,
-                "width": 1600,
-                "service": [
-                  {
-                    "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20280.original.tif",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20280.original.tif/annotations",
-          "@context": "https://www.w3.org/ns/anno.jsonld",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "item-39191716",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "value": "<p>Correspondance de Prisonniers de guerre</p>\n<p><del>Feldpostkarte</del></p>\n<p><span class=\"underline\">Erste</span> Post nach</p>\n<p><span class=\"underline\">Hause</span>, von Gefangenschaft</p>\n<p>&nbsp;</p>\n<p>Herrn Wilh. Keefer</p>\n<p>&nbsp;<span class=\"tct-uncertain\">Hirschstein</span>&nbsp;</p>\n<p>in Esslingen a. Neckar</p>\n<p>Allemagne</p>\n<p>&nbsp;</p>\n<p>&Uuml;berwachungsstelle</p>\n<p>&nbsp;&nbsp;<span class=\"pos-in-text\"> Stempel:</span>&nbsp; 7 Aout</p>\n<p>&nbsp;</p>\n<p>angekommen am 6 September.</p>"
-              },
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20280.original.tif"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20281.original.tif",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 4"
-        ]
-      },
-      "height": 933,
-      "width": 1600,
-      "items": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20281.original.tif/annotationpage/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20281.original.tif/annotation/0",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20281.original.tif",
-              "body": {
-                "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20281.original.tif/full/full/0/default.jpg",
-                "type": "Image",
-                "height": 933,
-                "width": 1600,
-                "service": [
-                  {
-                    "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20281.original.tif",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20281.original.tif/annotations",
-          "@context": "https://www.w3.org/ns/anno.jsonld",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "item-39191717",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "value": "<p>Feldlatzarett 1. August 1918</p>\n<p>Ich bin Kriegsgefangen in Frankreich</p>\n<p>Name: Keefer</p>\n<p>Vorname: Wilhelm</p>\n<p>Dienstgrad; ??? Inftr. Regiment No. 125</p>\n<p><del>Gefund</del>&nbsp; &nbsp;Verwundet ja</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Oberschenkeldurchschu&szlig;</p>\n<p>Datum 5. August 1918&nbsp; Unterschrift</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wilhelm Keefer</p>\n<p>Es soll nicht geantwortet werden</p>\n<p>bis ich meine Adresse mitgeteilt habe.</p>\n<p>&nbsp;</p>"
-              },
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20281.original.tif"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20282.original.tif",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 5"
-        ]
-      },
-      "height": 933,
-      "width": 1600,
-      "items": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20282.original.tif/annotationpage/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20282.original.tif/annotation/0",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20282.original.tif",
-              "body": {
-                "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20282.original.tif/full/full/0/default.jpg",
-                "type": "Image",
-                "height": 933,
-                "width": 1600,
-                "service": [
-                  {
-                    "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20282.original.tif",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20282.original.tif/annotations",
-          "@context": "https://www.w3.org/ns/anno.jsonld",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "item-39191718",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "value": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Haveluy, den 13. Mai 1918</p>\n<p>Meine Lieben!</p>\n<p>Sind am 10. d. Mts. nachts 12 Uhr abgel&ouml;st</p>\n<p>worden, in vorderster Linie, u. kamen wieder</p>\n<p>zur&uuml;ck in unser altes Ruhequartir &nbsp;Grewielers&nbsp; wo</p>\n<p>wir dann am 11. d. Mts. abends 9 Uhr abmarschierten</p>\n<p>&uuml;ber Bapaume, nach Fremikurt hier wurden wir</p>\n<p>verladen auf die&nbsp; Bahn in offene W&auml;gen, was uns</p>\n<p>einwenig Willkommen war, alleweil noch besser als wie</p>\n<p>gelaufen. Wir kamen &uuml;ber Gambrai nach Douai mor-</p>\n<p>gens ( am 12. d. Mts) 8 Uhr an, dann noch 3 klm Marsch bis</p>\n<p>nach Haveluy, dann wurden wir hier einquartirt bei einer</p>\n<p>Franzosen Familie, ihr Mann ist auch schon 3 Jahre in Ge-</p>\n<p>fangenschaft in Gie&szlig;en. Sie ist sehr freundlich gegen uns</p>\n<p>bekomme morgens u. mittags je 1 Tasse Kaffee, aber noch <img class=\"tct_missing\" style=\"display: inline;\" src=\"../../../wp-content/themes/transcribathon/images/tinyMCEImages/missing.gif\" alt=\"missing\"></p>\n<p>Kaffee Ia/ wir Ordonanzen u. die Unteroffiziere haben</p>\n<p>ein Zivilquartier, die Kompanie ist in einem Schul-</p>\n<p>haus untergebracht. Da k&ouml;nnt Ihr sehen wie wir fein heraus</p>\n<p>sind bei unserem &nbsp;<span class=\"tct-uncertain\">Leben</span> &nbsp;jezt geht es mir wieder soweit</p>\n<p>gut, jezt sind wir doch wieder Kugelsicher. Da ist mann</p>\n<p>wieder ein ganz anderer Mensch. Nur das Wetter ist</p>\n<p>hier aber alle Tage anders. Das macht eben das Meer.</p>\n<p>Sollen voraussichtlich 14 Tage in Ruhe sein.</p>\n<p>Haben gestern Eure 2 l. Paketchen erhalten, u. danke</p>\n<p>Euch vielmal daf&uuml;r. Habe schon alle beide auf-</p>\n<p>gegessen (wir sind halt grantios Ausgehungert)</p>\n<p>&nbsp;</p>\n<p>Das Er. K. <img class=\"tct_missing\" style=\"display: inline;\" src=\"../../../wp-content/themes/transcribathon/images/tinyMCEImages/missing.gif\" alt=\"missing\"> Kl. habt</p>\n<p>Ihr wohl erhalten,</p>\n<p>auch viele Gr&uuml;&szlig;e</p>\n<p>soll ich hineinschrei-</p>\n<p>ben von meiner</p>\n<p>Quartirfrau, es</p>\n<p>ist eine Franz&ouml;sin</p>\n<p>mit 3 Kindern</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
-              },
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20282.original.tif"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20283.original.tif",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 6"
-        ]
-      },
-      "height": 1600,
-      "width": 1182,
-      "items": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20283.original.tif/annotationpage/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20283.original.tif/annotation/0",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20283.original.tif",
-              "body": {
-                "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20283.original.tif/full/full/0/default.jpg",
-                "type": "Image",
-                "height": 1600,
-                "width": 1182,
-                "service": [
-                  {
-                    "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20283.original.tif",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20283.original.tif/annotations",
-          "@context": "https://www.w3.org/ns/anno.jsonld",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "item-39191719",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "value": "<p>Hier in dieser Gegend ist alles topfeben es hat ziemlich</p>\n<p>Kohlenbergwerke hier. Am 10. Mai hatte ich meinen</p>\n<p>schlimmsten Tag erlebt, seit ich im Felde bin, will</p>\n<p>es Euch nun ein wenig schildern, mittags um</p>\n<p>12 Uhr begann der Engl&auml;nder auf einmal an, mit</p>\n<p>1 Gesch&uuml;tz um unsere Unterst&auml;nde mit 18 cm</p>\n<p>M&ouml;rser zu beschie&szlig;en, wir dachten weiters garnichts</p>\n<p>an etwas anders als er fr&uuml;her die Mienenwerfer die</p>\n<p>hinter uns lagen, bis um 1/2 1 Uhr machte er so</p>\n<p>weiter u. auf einmal sezte er einen Schu&szlig; in</p>\n<p>unsern Unterstand hin, da&szlig; es die hintere Wand</p>\n<p>eindr&uuml;ckte, nat&uuml;rlich, k&ouml;nnt Euch denken, unsere</p>\n<p>Stahlhelme aufgesezt u. Gasmaske umgeh&auml;ngt u.</p>\n<p>zum Unterstand hinaus wie der Blitz umgesch-</p>\n<p>nallt hatten wir nicht mehr, obgleich es Befehl war,</p>\n<p>Unser Leben war uns lieber, u. gleich darauf feuerte .</p>\n<p>eine zur&uuml;ck u. direkt auf die Mitte unseres Unter-</p>\n<p>standes, da hat es sich um ein paar Sekunden gedreht,</p>\n<p>dann w&auml;ren wir glatt ums Leben gekommen wir</p>\n<p>waren n&auml;mlich noch zu dritt darinnen, die andern 4 waren</p>\n<p>zuf&auml;llig drau&szlig;en, dann sausten wir im schnellsten Tempo</p>\n<p>vor in die Sippe, da waren wir am sichersten, weil</p>\n<p>sie ziemlich nah beim <img class=\"tct_missing\" style=\"display: inline;\" src=\"../../../wp-content/themes/transcribathon/images/tinyMCEImages/missing.gif\" alt=\"missing\"> ist, dann w&uuml;rde er</p>\n<p>auch noch Splitter darvon bekommen. So schnell war</p>\n<p>ich noch meiner lebtag noch nie gelaufen, wenn sie mal</p>\n<p>solche Kaliber hinter einem her sezen da kann mann</p>\n<p>laufen. Dann kammen noch 2 Gesch&uuml;tze dazu u. sie</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
-              },
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20283.original.tif"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20284.original.tif",
-      "type": "Canvas",
-      "label": {
-        "none": [
-          "p. 7"
-        ]
-      },
-      "height": 1600,
-      "width": 1089,
-      "items": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20284.original.tif/annotationpage/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20284.original.tif/annotation/0",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20284.original.tif",
-              "body": {
-                "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20284.original.tif/full/full/0/default.jpg",
-                "type": "Image",
-                "height": 1600,
-                "width": 1089,
-                "service": [
-                  {
-                    "id": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20284.original.tif",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20284.original.tif/annotations",
-          "@context": "https://www.w3.org/ns/anno.jsonld",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "item-39191720",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "format": "text/plain",
-                "value": "<p>bescho&szlig;en mit 3 Gesch&uuml;tzen unsre Engl. Unterst&auml;nde</p>\n<p>Ein jedes hatte einer das Ziel, so ging es fort bis</p>\n<p>&nbsp;<span class=\"tct-uncertain\">4</span>&nbsp; Uhr. Der Leutnant u. der ganze Stab war ausgegangen,</p>\n<p><img class=\"tct_missing\" style=\"display: inline;\" src=\"../../../wp-content/themes/transcribathon/images/tinyMCEImages/missing.gif\" alt=\"missing\"> wir dachten jezt</p>\n<p>ist vollends schlu&szlig; u. schlichen uns vor in unsern</p>\n<p>Laufgraben, der auch schon ein paar Volltreffer</p>\n<p>hatte, wo wir halbwegs waren auf einmal fing</p>\n<p>es wieder an u. sezte es links u. rechts von uns</p>\n<p>Granaten, wir h&auml;tten nicht geglaubt, da&szlig; wir davon</p>\n<p>k&auml;men &nbsp;<img class=\"tct_missing\" style=\"display: inline;\" src=\"../../../wp-content/themes/transcribathon/images/tinyMCEImages/missing.gif\" alt=\"missing\"> u. Marsch Marsch bis in die Sippe&nbsp;</p>\n<p>u. ganz ermattet u. zum Gl&uuml;ck noch Gesund kamen</p>\n<p>wir in das <img class=\"tct_missing\" style=\"display: inline;\" src=\"../../../wp-content/themes/transcribathon/images/tinyMCEImages/missing.gif\" alt=\"missing\"> wieder an. Dann bescho&szlig; er vollends</p>\n<p>unsere Unterst&auml;nde bis abends 5 Uhr, dann war es schlu&szlig;.</p>\n<p>um 9 Uhr gingen 3 Mann u. 1 Uoffz. zur&uuml;ck um</p>\n<p>Ihren Turnister zu paken, weil sie die Komp.</p>\n<p>abholen mu&szlig;te, die uns um 12 Uhr abl&ouml;ste. Wir</p>\n<p>andern durften nicht zur&uuml;ck vom Ltn aus weil mann</p>\n<p>ganz eingesehen w&auml;r vom Engl&auml;nder denn der Laufgraben</p>\n<p>war v&ouml;llig zusammengeschossen, wir mu&szlig;ten warten bis</p>\n<p>es Nacht war, inzw. kamen sie wieder zur&uuml;ck mit</p>\n<p>einer traurigen Nachricht, n&auml;mlich der Vizefeldwebel</p>\n<p>B&ouml;hmerle von Skt. Bernhardt sei gefallen u. 1 Ser-</p>\n<p>geant vom Rgt. &nbsp;<span class=\"tct-uncertain\">24</span> . die uns abgel&ouml;st hatten u. 1 war</p>\n<p>versch&uuml;ttet, aber noch lebend ausgegraben. Der</p>\n<p>B&ouml;hmerle u. die 2 andern m&uuml;ssen in der Feuerpause</p>\n<p>zur&uuml;ckgegangen sein von 2 bis 1/2 3 Uhr u. der Unter-</p>\n<p>stand hatte ein paar Volltreffer. Der B&ouml;hmerle lag</p>\n<p>tot oben u. ein Lehmkloz auf dem Gesicht u. die F&uuml;&szlig;e</p>\n<p>waren ganz Vertr&auml;t. Der Ltnant sagte: Der m&uuml;sse</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
-              },
-              "target": "https://rhus-209.man.poznan.pl/canvas/11/5//2020601/https___1914_1918_europeana_eu_contributions_1747/1747.20284.original.tif"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "metadata": [
     {
       "label": {
         "en": [
-          "ExternalRecordId"
+          "title"
         ]
       },
       "value": {
         "en": [
-          "http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_1747"
+          "Nalaciva"
+        ],
+        "lo": [
+          "ນະຣະຊີວະ"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "PlaceName"
+          "dc:language"
         ]
       },
       "value": {
         "en": [
-          "Laôn"
+          "Pali",
+          "Tai Lue"
+        ],
+        "lo": [
+          "ປາ​ລີ",
+          "ໄທລື້"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dc:identifier"
+        ]
+      },
+      "value": {
+        "none": [
+          "dllm_05957"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "otherIdentifier.code_number"
+        ]
+      },
+      "value": {
+        "none": [
+          "08090207038_02"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "RecordId"
+          "dc:extent"
         ]
       },
       "value": {
         "en": [
-          "/2020601/https___1914_1918_europeana_eu_contributions_1747"
+          "4 fascicle(s), 75 folio(s) (30 img.)"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Created"
+          "dc:place"
         ]
       },
       "value": {
         "en": [
-          "2019-09-11T08:46:49.521Z || 2020-02-25T09:01:29.261Z || 2020-02-25T09:01:29.262Z || 2011-07-14 11:42:02 UTC || 2011-07-14 11:55:24 UTC || 2011-07-14 11:55:55 UTC || 2011-07-14 11:56:23 UTC || 2011-07-14 11:56:30 UTC || 2011-07-14 11:57:55 UTC || 2011-07-14 11:58:14 UTC || 2011-07-14 11:58:31 UTC || 2011-07-14 11:58:52 UTC || 2011-07-14 11:59:01 UTC || 2011-07-14 11:59:08 UTC || 2011-07-14 11:59:17 UTC || 2011-07-14 11:59:23 UTC || 2011-07-14 11:59:30 UTC || 2011-07-14 11:59:37 UTC || 2011-07-14 11:59:44 UTC || 2011-07-14 11:59:51 UTC || 2011-07-14 11:59:57 UTC || 2011-07-14 12:00:02 UTC || 2011-07-14 12:00:08 UTC || 2011-07-14 12:00:15 UTC || 2011-07-14 12:00:22 UTC || 2011-07-14 12:00:29 UTC || 2011-07-14 12:00:35 UTC || 2011-07-14 12:00:40 UTC || 2011-07-14 12:00:47 UTC || 2011-07-14 12:00:53 UTC || 2011-07-14 12:01:00 UTC || 2011-07-14 12:01:06 UTC || 2011-07-14 12:01:12 UTC || 2011-07-14 12:01:18 UTC || 2011-07-14 12:01:26 UTC || 2011-07-14 12:01:34 UTC || 2011-07-14 12:01:40 UTC || 2011-07-14 12:01:48 UTC || 2011-07-14 12:01:54 UTC || 2011-07-14 12:02:01 UTC || 2011-07-14 12:02:08 UTC || 2011-07-14 12:02:14 UTC || 2011-07-14 12:02:20 UTC || 2011-07-14 12:02:45 UTC || 2011-07-14 12:02:51 UTC || 2011-07-14 12:02:59 UTC || 2011-07-14 12:03:10 UTC || 2011-07-14 12:03:20 UTC || 2011-07-14 12:03:26 UTC || 2011-07-14 12:03:32 UTC || 2011-07-14 12:03:39 UTC || 2011-07-14 12:03:46 UTC || 2011-07-14 12:04:03 UTC || 2011-07-14 12:04:22 UTC || 2011-07-14 12:04:28 UTC || 2011-07-14 12:04:35 UTC || 2011-07-14 12:05:02 UTC || 2011-07-14 12:05:09 UTC || 2011-07-14 12:05:16 UTC || 2011-07-14 12:05:22 UTC || 2011-07-14 12:05:45 UTC || 2011-07-14 12:06:06 UTC || 2011-07-14 12:06:12 UTC || 2011-07-14 12:06:18 UTC || 2011-07-14 12:06:24 UTC || 2011-07-14 12:06:29 UTC || 2011-07-14 12:06:49 UTC || 2011-07-14 12:06:59 UTC || 2011-07-14 12:07:09 UTC || 2011-07-14 12:07:20 UTC || 2011-07-14 12:07:27 UTC || 2011-07-14 12:07:44 UTC || 2011-07-14 12:08:02 UTC || 2011-07-14 12:08:07 UTC || 2011-07-14 12:08:12 UTC || 2011-07-14 12:08:18 UTC || 2011-07-14 12:08:29 UTC || 2011-07-14 12:08:36 UTC || 2011-07-14 12:08:43 UTC || 2011-07-14 12:08:50 UTC || 2011-07-14 12:09:05 UTC || 2011-07-14 12:09:17 UTC || 2011-07-14 12:09:24 UTC || 2011-07-14 12:09:31 UTC || 2011-07-14 12:09:40 UTC || 2011-07-14 12:10:01 UTC || 2011-07-14 12:10:07 UTC || 2011-07-14 12:10:15 UTC || 2011-07-14 12:10:26 UTC || 2011-07-14 12:10:36 UTC || 2011-07-14 12:10:43 UTC || 2011-07-14 12:10:50 UTC || 2011-07-14 12:10:57 UTC || 2011-07-14 12:11:04 UTC || 2011-07-14 12:11:11 UTC || 2011-07-14 12:11:18 UTC || 2011-07-14 12:11:25 UTC || 2011-07-14 12:11:32 UTC || 2011-07-14 12:11:39 UTC || 2011-07-14 12:11:45 UTC || 2011-07-14 12:12:08 UTC || 2011-07-14 12:12:15 UTC || 2011-07-14 12:12:21 UTC || 2011-07-14 12:12:27 UTC || 2011-07-14 12:12:49 UTC || 2011-07-14 12:12:55 UTC || 2011-07-14 12:13:03 UTC || 2011-07-14 12:13:10 UTC || 2011-07-14 12:13:17 UTC || 2011-07-14 12:13:23 UTC || 2011-07-14 12:13:31 UTC || 2011-07-14 12:13:38 UTC || 2011-07-14 12:13:45 UTC || 2011-07-14 12:13:51 UTC || 2011-07-14 12:13:57 UTC || 2011-07-14 12:14:03 UTC || 2011-07-14 12:14:09 UTC || 2011-07-14 12:14:16 UTC || 2011-07-14 12:14:22 UTC || 2011-07-14 12:14:28 UTC || 2011-07-14 12:14:35 UTC || 2011-07-14 12:14:42 UTC || 2011-07-14 12:14:48 UTC || 2011-07-14 12:14:54 UTC || 2011-07-14 12:14:59 UTC || 2011-07-14 12:15:06 UTC || 2011-07-14 12:15:13 UTC || 2011-07-14 12:15:20 UTC || 2011-07-14 12:15:26 UTC || 2011-07-14 12:15:33 UTC || 2011-07-14 12:15:40 UTC || 2011-07-14 12:15:46 UTC || 2011-07-14 12:15:54 UTC || 2011-07-14 12:16:01 UTC || 2011-07-14 12:16:07 UTC || 2011-07-14 12:16:13 UTC || 2011-07-14 12:16:19 UTC || 2011-07-14 12:16:26 UTC || 2011-07-14 12:16:31 UTC || 2011-07-14 12:16:38 UTC || 2011-07-14 12:16:47 UTC || 2011-07-14 12:16:58 UTC || 2011-07-14 12:17:10 UTC || 2011-07-14 12:17:16 UTC || 2011-07-14 12:17:24 UTC || 2011-07-14 12:17:32 UTC || 2011-07-14 12:17:39 UTC || 2011-07-14 12:17:46 UTC || 2011-07-14 12:17:53 UTC || 2011-07-14 12:18:00 UTC || 2011-07-14 12:18:08 UTC || 2011-07-14 12:18:13 UTC || 2011-07-14 12:18:18 UTC || 2011-07-14 12:18:24 UTC || 2011-07-14 12:18:30 UTC || 2011-07-14 12:18:39 UTC || 2011-07-14 12:18:47 UTC || 2011-07-14 12:18:54 UTC || 2011-07-14 12:19:01 UTC || 2011-07-14 12:19:09 UTC || 2011-07-14 12:19:15 UTC || 2011-07-14 12:19:20 UTC || 2011-07-14 12:19:25 UTC || 2011-07-14 12:19:30 UTC || 2011-07-14 12:19:34 UTC || 2011-07-14 12:19:44 UTC || 2011-07-14 12:20:01 UTC || 2011-07-14 12:20:07 UTC || 2011-07-14 12:20:13 UTC || 2011-07-14 12:20:17 UTC || 2011-07-14 12:20:25 UTC || 2011-07-14 12:20:33 UTC || 2011-07-14 12:20:42 UTC || 2011-07-14 12:20:50 UTC || 2011-07-14 12:20:57 UTC || 2011-07-14 12:21:05 UTC || 2011-07-14 12:21:14 UTC || 2011-07-14 12:21:22 UTC || 2011-07-14 12:21:28 UTC || 2011-07-14 12:21:34 UTC || 2011-07-14 12:21:41 UTC || 2011-07-14 12:21:48 UTC || 2011-07-14 12:22:12 UTC || 2011-07-14 12:22:19 UTC || 2011-07-14 12:22:26 UTC || 2011-07-14 12:22:32 UTC || 2011-07-14 12:22:57 UTC || 2011-07-14 12:23:04 UTC || 2011-07-14 12:23:12 UTC || 2011-07-14 12:23:19 UTC || 2011-07-14 12:23:27 UTC || 2011-07-14 12:23:36 UTC || 2011-07-14 12:23:45 UTC || 2011-07-14 12:23:54 UTC || 2011-07-14 12:24:02 UTC || 2011-07-14 12:24:10 UTC || 2011-07-14 12:24:18 UTC || 2011-07-14 12:24:26 UTC || 2011-07-14 12:24:34 UTC || 2011-07-14 12:24:43 UTC || 2011-07-14 12:24:51 UTC || 2011-07-14 12:24:56 UTC || 2011-07-14 12:25:03 UTC || 2011-07-14 12:25:10 UTC || 2011-07-14 12:25:16 UTC || 2011-07-14 12:25:22 UTC || 2011-07-14 12:25:29 UTC || 2011-07-14 12:25:35 UTC || 2011-07-14 12:25:40 UTC || 2011-07-14 12:25:47 UTC || 2011-07-14 12:25:55 UTC || 2011-07-14 12:26:03 UTC || 2011-07-14 12:26:10 UTC || 2011-07-14 12:26:17 UTC || 2011-07-14 12:26:25 UTC || 2011-07-14 12:26:32 UTC || 2011-07-14 12:26:39 UTC || 2011-07-14 12:26:47 UTC || 2011-07-14 12:26:54 UTC || 2011-07-14 12:27:02 UTC || 2011-07-14 12:27:10 UTC || 2011-07-14 12:27:17 UTC || 2011-07-14 12:27:24 UTC || 2011-07-14 12:27:31 UTC || 2011-07-14 12:27:38 UTC || 2011-07-14 12:27:44 UTC || 2011-07-14 12:27:51 UTC || 2011-07-14 12:27:57 UTC || 2011-07-14 12:28:02 UTC || 2011-07-14 12:28:07 UTC || 2011-07-14 12:28:15 UTC || 2011-07-14 12:28:20 UTC || 2011-07-14 12:28:26 UTC || 2011-07-14 12:28:32 UTC || 2011-07-14 12:28:37 UTC || 2011-07-14 12:28:59 UTC || 2011-07-14 12:29:07 UTC || 2011-07-14 12:29:15 UTC || 2011-07-14 12:29:24 UTC || 2011-07-14 12:29:32 UTC || 2011-07-14 12:29:39 UTC || 2011-07-14 12:29:47 UTC || 2011-07-14 12:29:55 UTC || 2011-07-14 12:30:15 UTC || 2011-07-14 12:30:23 UTC || 2011-07-14 12:30:30 UTC || 2011-07-14 12:30:37 UTC || 2011-07-14 12:30:45 UTC || 2011-07-14 12:30:52 UTC || 2011-07-14 12:30:59 UTC || 2011-07-14 12:31:07 UTC || 2011-07-14 12:31:29 UTC || 2011-07-14 12:31:48 UTC || 2011-07-14 12:31:56 UTC || 2011-07-14 12:32:03 UTC || 2011-07-14 12:32:10 UTC || 2011-07-14 12:32:17 UTC || 2011-07-14 12:32:23 UTC || 2011-07-14 12:32:32 UTC || 2011-07-14 12:32:38 UTC || 2011-07-14 12:32:45 UTC || 2011-07-14 12:32:51 UTC || 2011-07-14 12:32:58 UTC || 2011-07-14 12:33:05 UTC || 2011-07-14 12:33:11 UTC || 2011-07-14 12:33:17 UTC || 2011-07-14 12:33:23 UTC || 2011-07-14 12:33:29 UTC || 2011-07-14 12:33:35 UTC || 2011-07-14 12:33:41 UTC || 2011-07-14 12:33:48 UTC || 2011-07-14 12:33:55 UTC || 2011-07-14 12:34:01 UTC || 2011-07-14 12:34:07 UTC || 2011-07-14 12:34:14 UTC || 2011-07-14 12:34:21 UTC || 2011-07-14 12:34:26 UTC || 2011-07-14 12:34:32 UTC || 2011-07-14 12:34:38 UTC || 2011-07-14 12:34:45 UTC || 2011-07-14 12:34:53 UTC || 2011-07-14 12:34:59 UTC || 2011-07-14 12:35:06 UTC || 2011-07-14 12:35:12 UTC || 2011-07-14 12:35:18 UTC || 2011-07-14 12:35:23 UTC || 2011-07-14 12:35:28 UTC || 2011-07-14 12:35:34 UTC || 2011-07-14 12:35:39 UTC || 2011-07-14 12:35:44 UTC || 2011-07-14 12:35:49 UTC || 2011-07-14 12:35:54 UTC || 2011-07-14 12:36:00 UTC || 2011-07-14 12:36:06 UTC || 2011-07-14 12:36:11 UTC || 2011-07-14 12:36:16 UTC || 2011-07-14 12:36:21 UTC || 2011-07-14 12:36:26 UTC || 2011-07-14 12:36:48 UTC || 2011-07-14 12:36:55 UTC || 2011-07-14 12:37:00 UTC || 2011-07-14 12:37:08 UTC || 2011-07-14 12:37:15 UTC || 2011-07-14 12:37:21 UTC || 2011-07-14 12:37:29 UTC || 2011-07-14 12:37:36 UTC || 2011-07-14 12:37:42 UTC || 2011-07-14 12:37:48 UTC || 2011-07-14 12:37:54 UTC || 2011-07-14 12:38:01 UTC || 2011-07-14 12:38:07 UTC || 2011-07-14 12:38:14 UTC || 2011-07-14 12:38:40 UTC || 2011-07-14 12:39:10 UTC"
+          "Sainyabuli Province",
+          "Mueang Siang Hon",
+          "Vat Kulathadalam"
+        ],
+        "lo": [
+          "ແຂວງ ໄຊຍະບູລີ",
+          "ເມືອງ ຊຽງຮ່ອນ",
+          "ວັດກຸລະຖະດາຣາມ"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Provenance"
+          "full_location_name"
         ]
       },
       "value": {
         "en": [
-          "ST10"
+          "Vat Kulathadalam, Sainyabuli Province, Mueang Siang Hon"
+        ],
+        "lo": [
+          "ວັດກຸລະຖະດາຣາມ, ແຂວງ ໄຊຍະບູລີ, ເມືອງ ຊຽງຮ່ອນ"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Title"
+          "lanna_original"
         ]
       },
       "value": {
-        "en": [
-          "Wilhelm Keefer in französischer Kriegsgefangenschaft - die Briefe"
+        "none": [
+          "documents_id : dllm_05957",
+          "documents_code_number : 08090207038_02",
+          "documents_roll : 0582",
+          "documents_number_of_fascicles : 4",
+          "documents_number_of_folios : 75",
+          "locations_parent_parent_id : 183",
+          "full_location_name : Vat Kulathadalam, Mueang Siang Hon, Sainyabuli Province",
+          "full_location_name_lao : ວັດກຸລະຖະດາຣາມ, ເມືອງ ຊຽງຮ່ອນ, ແຂວງ ໄຊຍະບູລີ",
+          "documents_has_colophon : yes",
+          "documents_is_illustrated : no",
+          "documents_is_color : no",
+          "documents_bundle_id : 08090207038",
+          "locations_id : 231",
+          "locations_parent_id : 229",
+          "documents_position_in_bundle : 2",
+          "documents_is_complete : yes",
+          "documents_pages_count : 30",
+          "materials_name : Palm-leaf",
+          "materials_name_lao : ​ໃບ​ລານ",
+          "location_types_name : Wat or Location",
+          "location_types_name_lao : ວັດ",
+          "locations_rgt : 458",
+          "locations_lft : 457",
+          "locations_dllm_loc_code : 2",
+          "locations_gps_lat : 19.7929",
+          "locations_gps_lon : 100.799",
+          "locations_dlntm_loc_code : 231",
+          "public_remarks_lao : [\"ປີຈານຢູ່ໃບສຳຫຼວດແມ່ນ ປີຈສ 1195 ປີກ່າໄສ້\"]",
+          "categories_name : [\"Jataka\"]",
+          "categories_name_lao : [\"ຊາດົກ\"]",
+          "languages : [\"Pali\",\"Tai Lue\"]",
+          "languages_lao : [\"ປາລີ\",\"ໄທລື້\"]",
+          "scripts : [\"Tham Lue\"]",
+          "scripts_lao : [\"ທັມລື້\"]",
+          "title_search_roman : [\"Nalasiva\"]",
+          "title_search_lao : [\"ນະລະຊີວະ\"]",
+          "dllm_title_roman : [\"Nalaciva\"]",
+          "dllm_title_lao : [\"ນະຣະຊີວະ\"]",
+          "plmp_title_lao : [\"ນະຣະຊີວະກຸມາຣ\"]",
+          "location_documents_count : 34",
+          "legibilities_name : Mostly legible",
+          "legibilities_name_lao : ສ່ວນຫລາຍອ່ານໄດ້",
+          "conditions_name : Good",
+          "conditions_name_lao : ດີ",
+          "documents_preferred_date_system : Undated",
+          "documents_preferred_date_system_lao : ບໍ່ປາກົດປີລິດຈະນາ",
+          "in_collection : DLLM"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Description"
+          "dc:description"
         ]
       },
       "value": {
         "en": [
-          "Der Vater des Teilnehmers war Wilhelm Keefer (22.12.1898-1.2.1972). Hier sind Feldpostbriefe, die Wilhelm Keefer als Hornist seit mindestens 1916 an seine Eltern schickte. Seine Eltern hatten ein Korbgeschäft in Esslingen a.N. Wilhelm Keefer war spätestens seit August 1918 in französischer Gefangenschaft, blieb Kriegsgefangener bis Januar 1920 in verschiedenen Kriegsgefangenenlagern, insbesondere in Laôn. Unter den Briefen aus der Gefangenschaft sind verschiedene offizielle Karten des Internationalen Roten Kreuzes, das den Brief- und Paketversand für die Gefangenen organisierte. Dazu kommt ein Satz mit unbeschriebenen Postkarten – gezeichneter Szenen des Lebens deutscher Kriegsgefangener in Frankreich, die von der Reichsvereinigung ehemaliger Kriegsgefangener nach 1919 vertrieben wurden. - // (Geschenk an die Bibliothek für Zeitgeschichte in der Württ. Landesbibliothek Stuttgart). - Einen weiteren Beitrag zu Wilhelm Keefer finden Sie unter: http://www.europeana1914-1918.eu/de/contributions/1746/"
+          "Bundle ID: 08090207038, position in bundle: 2; roll: 0582"
+        ],
+        "lo": [
+          "[\"ປີຈານຢູ່ໃບສຳຫຼວດແມ່ນ ປີຈສ 1195 ປີກ່າໄສ້\"]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "has_colophon"
+        ]
+      },
+      "value": {
+        "none": [
+          "yes"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "is_illustrated"
+        ]
+      },
+      "value": {
+        "none": [
+          "no"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "is_color"
+        ]
+      },
+      "value": {
+        "none": [
+          "no"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "otherIdentifier.bundle_id"
+        ]
+      },
+      "value": {
+        "none": [
+          "08090207038"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "is_complete"
+        ]
+      },
+      "value": {
+        "none": [
+          "yes"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "in_collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "DLLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "pages_count"
+        ]
+      },
+      "value": {
+        "none": [
+          "30"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Source"
+          "material"
         ]
       },
       "value": {
         "en": [
-          "UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC || UGC"
+          "Palm-leaf"
+        ],
+        "lo": [
+          "​ໃບ​ລານ"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Contributor"
+          "location_type"
         ]
       },
       "value": {
         "en": [
-          "europeana19141918:agent/40b4b3a482099ebac17c377a98a49551"
+          "Wat or Location"
+        ],
+        "lo": [
+          "ວັດ"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "schema:latitude"
+        ]
+      },
+      "value": {
+        "none": [
+          "19.7929"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "schema:longitude"
+        ]
+      },
+      "value": {
+        "none": [
+          "100.799"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Date"
+          "dc:subject"
         ]
       },
       "value": {
         "en": [
-          "1917 - 1920 || 1920-01 || 1917"
+          "Jataka"
+        ],
+        "lo": [
+          "ຊາດົກ"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Type"
+          "script"
         ]
       },
       "value": {
         "en": [
-          "Story"
+          "Tham Lue"
+        ],
+        "lo": [
+          "ທັມລື້"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Language"
+          "index"
         ]
       },
       "value": {
+        "lo": [
+          "ນະລະຊີວະ",
+          "ນະຣະຊີວະກຸມາຣ"
+        ],
         "en": [
-          "deu || Deutsch"
+          "Nalasiva"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Identifier"
+          "legibilities"
         ]
       },
       "value": {
         "en": [
-          "https://1914-1918.europeana.eu/contributions/1747 || 1747"
+          "Mostly legible"
+        ],
+        "lo": [
+          "ສ່ວນຫລາຍອ່ານໄດ້"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "LandingPage"
+          "conditions"
         ]
       },
       "value": {
         "en": [
-          "https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_1747"
+          "Good"
+        ],
+        "lo": [
+          "ດີ"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Country"
+          "date_original"
         ]
       },
       "value": {
         "en": [
-          "Europe"
+          "(Undated)"
+        ],
+        "lo": [
+          "(ບໍ່ປາກົດປີລິດຈະນາ)"
         ]
       }
     },
     {
       "label": {
-        "en": [
-          "DataProvider"
+        "none": [
+          "map"
         ]
       },
       "value": {
-        "en": [
-          "Europeana 1914-1918"
+        "none": [
+          "\u003Ca href=\"#\" onClick=\"MyWindow=window.open('https://www.openstreetmap.org/?mlat=19.7929&mlon=100.799#map=16/19.7929/100.799','Map','width=500,height=500'); return false;\"\u003EMap view\u003C/a\u003E"
         ]
       }
+    }
+  ],
+  "summary": {
+    "none": [
+      "Digital Library of Lao Manuscripts  - PLMP Code:08090207038_02 (dllm_05957)"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
     },
+    "value": {
+      "en": [
+        "Images and metadata are made available by Harald Hundius in collaboration with the National Library of Laos (CC BY-NC 4.0) via the Staatsbibliothek zu Berlin | CrossAsia"
+      ]
+    }
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "homepage": [
     {
+      "id": "https://iiif.crossasia.org",
+      "type": "Text"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232779/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 1818,
       "label": {
-        "en": [
-          "Provider"
+        "none": [
+          "[ 1 ]"
         ]
       },
-      "value": {
-        "en": [
-          "Europeana 1914-1918"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Rights"
-        ]
-      },
-      "value": {
-        "en": [
-          "http://creativecommons.org/publicdomain/zero/1.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/ || http://creativecommons.org/licenses/by-sa/3.0/"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Year"
-        ]
-      },
-      "value": {
-        "en": [
-          "1917"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "DatasetName"
-        ]
-      },
-      "value": {
-        "en": [
-          "2020601_Ag_ErsterWeltkrieg_EU"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Begin"
-        ]
-      },
-      "value": {
-        "en": [
-          "1917"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "End"
-        ]
-      },
-      "value": {
-        "en": [
-          "1920-01"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Language"
-        ]
-      },
-      "value": {
-        "en": [
-          "mul"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Agent"
-        ]
-      },
-      "value": {
-        "en": [
-          "Gerhard Keefer | europeana19141918:agent/40b4b3a482099ebac17c377a98a49551"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Name"
-        ]
-      },
-      "value": {
-        "en": [
-          "Laôn"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Latitude"
-        ]
-      },
-      "value": {
-        "en": [
-          49.5642
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Longitude"
-        ]
-      },
-      "value": {
-        "en": [
-          3.61986
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "UserGenerated"
-        ]
-      },
-      "value": {
-        "en": [
-          1
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Text"
-        ]
-      },
-      "value": {
-          "en": [
-            "\n\nDescription  For  Group1-5:   ཡཪ་རྒྱབ་དང་   ཞབས་དྲུང་བདག་མོ་བཅས་ཀྱིས་    མཚཪ་སྣ་\n\nབའི་ཞིང་ཉི་\nམ་རྣམ་རྒྱལ་སོགས་ལ་བདག་ཐོབ་སྩལ་བའི་བཀའ་ཤོག་གྲངས་ ༥\nལྕགས་གླང་           ལྕགས་ཡོས་\n   ༡༥༤༡             ༡༥༩༡\n\nTitle:                            ༈༙   ཞབས་དྲུང་བདག་མོའི་དྲུང་གི་བཀའ་ཤོག་་་་་་་་་་\nShort Description:       ཞབས་དྲུང་བདག་མོས་     མཚཪ་སྣའི་ཞིང་ཉི་མ་རྣམ་རྒྱལ་ལ་བདག་ཐོབ་སྩལ་\n\nབའི་བཀའ་ཤོག་ ༡         ལྕགས་གླང་\n                       ༡༥༤༡\n\nPackage:                    ཚཪ་སྣ་ཁུལ་གྱི་བཀའ་ཤོག་ཁག་\nMain Text:                 ་་་་་་  ཚཪ་སྣའི་ཞིང་གི་བརྟན་ཁྲ་།\n\n                                         ་་་་་་་་་་་་་་་་་་ \n   མཚཪ་པ་སྣའི་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་བ་   ཉི་མ་རྣམ་རྒྱལ་་་་་་་་་་་་་་་་་་་་་་་\nནས་ཞིང་གསུམ་གྱི་འཇགས་གནས་སྣང་འདུག་པའི་རྒྱབ་སྣོན་དུ་ཡཪ་རྒྱབ་ནས་ཀྱང་བཀའ་ཤོག་སྣང་འདུག་པ་\nདང་    དཪ་སྒོས་ངེད་ཪང་ལ་ཡང་ཞུ་རྟེན་སྤམས་མི་ཆུང་རྩམ་ཕུལ་བྱུང་བཪ་   དགེ་རྒྱུན་ལ་དམིགས་\nཞིཪ་གསུམ་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་འདྲ་ཡིན་བྱེད་ཪུང་བྱི་སྲིད་བཪ་རྩང་མཪ་འཇགས་སུ་བཅུག་པ་ཡིན་      ་་་་་་་་་་་་་གླང་\n                   ཟླ་བ་བདུན་པའི་ཚེས་གཉིས་ལ་བྲིས་།    འདི་པའི་མད་དུ་སྒ་རྩཪ་\nབཅཪ་དགོས་པ་ཞིབ་་་་་་་་་་་་་་་་་་་་      ཞུ་བརྟེན་ཀྱང་སྤམས་ཆེ་བ་ཕུལ་བྱུང་བས་   གོང་བཞིན་འཇགས་\nགནས་བྱེད་རྒྱུ་ཡིན་།\n"
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232779/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551046/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232779/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232779/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232779/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232779/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 1818,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232779",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
           ]
-      }
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551046/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232780/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 1389,
+      "label": {
+        "none": [
+          "[ 2 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232780/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551045/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232780/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232780/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232780/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232780/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 1389,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232780",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551045/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232781/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2950,
+      "label": {
+        "none": [
+          "[ 3 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232781/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551050/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232781/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232781/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232781/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232781/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2950,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232781",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551050/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232782/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2944,
+      "label": {
+        "none": [
+          "[ 4 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232782/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551048/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232782/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232782/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232782/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232782/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2944,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232782",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551048/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232783/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2944,
+      "label": {
+        "none": [
+          "[ 5 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232783/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551051/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232783/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232783/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232783/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232783/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2944,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232783",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551051/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232784/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2944,
+      "label": {
+        "none": [
+          "[ 6 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232784/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551053/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232784/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232784/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232784/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232784/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2944,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232784",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551053/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232785/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2944,
+      "label": {
+        "none": [
+          "[ 7 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232785/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551052/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232785/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232785/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232785/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232785/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2944,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232785",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551052/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232786/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2938,
+      "label": {
+        "none": [
+          "[ 8 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232786/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551054/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232786/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232786/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232786/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232786/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2938,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232786",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551054/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232787/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2963,
+      "label": {
+        "none": [
+          "[ 9 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232787/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551056/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232787/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232787/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232787/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232787/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2963,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232787",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551056/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232788/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2938,
+      "label": {
+        "none": [
+          "[ 10 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232788/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551055/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232788/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232788/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232788/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232788/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2938,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232788",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551055/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232789/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2950,
+      "label": {
+        "none": [
+          "[ 11 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232789/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551057/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232789/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232789/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232789/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232789/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2950,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232789",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551057/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232790/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2931,
+      "label": {
+        "none": [
+          "[ 12 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232790/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551058/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232790/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232790/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232790/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232790/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2931,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232790",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551058/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232791/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2944,
+      "label": {
+        "none": [
+          "[ 13 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232791/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551060/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232791/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232791/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232791/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232791/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2944,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232791",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551060/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232792/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2963,
+      "label": {
+        "none": [
+          "[ 14 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232792/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551062/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232792/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232792/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232792/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232792/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2963,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232792",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551062/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232793/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2944,
+      "label": {
+        "none": [
+          "[ 15 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232793/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551061/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232793/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232793/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232793/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232793/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2944,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232793",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551061/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232794/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2938,
+      "label": {
+        "none": [
+          "[ 16 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232794/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551063/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232794/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232794/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232794/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232794/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2938,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232794",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551063/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232795/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2970,
+      "label": {
+        "none": [
+          "[ 17 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232795/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551064/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232795/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232795/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232795/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232795/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2970,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232795",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551064/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232796/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2976,
+      "label": {
+        "none": [
+          "[ 18 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232796/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551065/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232796/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232796/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232796/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232796/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2976,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232796",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551065/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232797/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2950,
+      "label": {
+        "none": [
+          "[ 19 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232797/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551067/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232797/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232797/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232797/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232797/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2950,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232797",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551067/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232798/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2963,
+      "label": {
+        "none": [
+          "[ 20 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232798/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551066/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232798/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232798/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232798/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232798/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2963,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232798",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551066/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232799/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2963,
+      "label": {
+        "none": [
+          "[ 21 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232799/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551068/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232799/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232799/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232799/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232799/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2963,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232799",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551068/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232800/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2950,
+      "label": {
+        "none": [
+          "[ 22 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232800/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551069/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232800/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232800/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232800/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232800/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2950,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232800",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551069/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232801/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2938,
+      "label": {
+        "none": [
+          "[ 23 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232801/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551070/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232801/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232801/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232801/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232801/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2938,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232801",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551070/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232802/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2938,
+      "label": {
+        "none": [
+          "[ 24 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232802/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551072/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232802/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232802/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232802/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232802/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2938,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232802",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551072/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232803/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2957,
+      "label": {
+        "none": [
+          "[ 25 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232803/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551071/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232803/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232803/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232803/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232803/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2957,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232803",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551071/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232804/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2950,
+      "label": {
+        "none": [
+          "[ 26 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232804/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551073/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232804/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232804/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232804/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232804/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2950,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232804",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551073/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232805/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2957,
+      "label": {
+        "none": [
+          "[ 27 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232805/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551074/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232805/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232805/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232805/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232805/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2957,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232805",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551074/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232806/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2963,
+      "label": {
+        "none": [
+          "[ 28 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232806/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551076/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232806/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232806/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232806/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232806/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2963,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232806",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551076/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232807/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2950,
+      "label": {
+        "none": [
+          "[ 29 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232807/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551075/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232807/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232807/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232807/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232807/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2950,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232807",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551075/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232808/canvas",
+      "type": "Canvas",
+      "height": 2534,
+      "width": 2950,
+      "label": {
+        "none": [
+          "[ 30 ]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232808/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551077/models?format=json&version=source&m=32856&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232808/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232808/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232808/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232808/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2534,
+                "width": 2950,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dllm+dllm_0005957+232808",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dllm/madoc/api/canvases/551077/models?format=w3c-annotation&version=source&m=32856&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
     }
   ]
 }
