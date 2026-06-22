@@ -1,140 +1,736 @@
 {
-  "@context" : [ "http://www.w3.org/ns/anno.jsonld", "http://iiif.io/api/presentation/3/context.json" ],
-  "id" : "https://iiif.europeana.eu/presentation/2020702/raa_fmi_10073200450001/manifest",
-  "type" : "Manifest",
-  "label" : {
-    "en" : [ "Field with fossil arable land" ],
-    "sv" : [ "Område med fossil åkermark" ]
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://itr02.crossasia.org/fcrepo/rest/dtab/1000/manifest",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Kundeling archives ID 1000 (012 2-1/#/2/5/3)"
+    ]
   },
-  "metadata" : [ {
-    "label" : {
-      "en" : [ "type" ]
-    },
-    "value" : {
-      "en" : [ "Field with fossil arable land", "Cultural Extradition" ]
-    }
-  }, {
-    "label" : {
-      "en" : [ "type" ]
-    },
-    "value" : {
-      "sv" : [ "Område med fossil åkermark", "Kulturlämning" ]
-    }
-  }, {
-    "label" : {
-      "en" : [ "language" ]
-    },
-    "value" : {
-      "@none" : [ "swe" ]
-    }
-  }, {
-    "label" : {
-      "en" : [ "language" ]
-    },
-    "value" : {
-      "@none" : [ "sv" ]
-    }
-  } ],
-  "thumbnail" : [ {
-    "id" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.fmis.raa.se%2Ffmis%2Fbilder%2F07%2F0781%2F732%2Fdokument%2F732-0045-01-D.jpg&type=TEXT",
-    "type" : "Image"
-  } ],
-  "homepage" : [ {
-    "id" : "https://www.europeana.eu/item/2020702/raa_fmi_10073200450001",
-    "type" : "Text",
-    "label" : {
-      "en" : [ "Europeana" ]
-    },
-    "format" : "text/html"
-  } ],
-  "requiredStatement" : {
-    "label" : {
-      "en" : [ "Attribution" ]
-    },
-    "value" : {
-      "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2020702/raa_fmi_10073200450001' target='_blank' rel='noopener'>Field with fossil arable land</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.fmis.raa.se/cocoon/fornsok/search.html?tab=3&page=1&objektid=10073200450001' target='_blank' rel='noopener'>Riksantikvarieämbetet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
-    }
-  },
-  "rights" : {
-    "id" : "http://creativecommons.org/publicdomain/mark/1.0/",
-    "type" : "Text",
-    "format" : "text/html"
-  },
-  "seeAlso" : [ {
-    "id" : "https://api.europeana.eu/record/2020702/raa_fmi_10073200450001.json-ld",
-    "type" : "Dataset",
-    "format" : "application/ld+json",
-    "profile" : "http://www.europeana.eu/schemas/edm/"
-  }, {
-    "id" : "https://api.europeana.eu/record/2020702/raa_fmi_10073200450001.json",
-    "type" : "Dataset",
-    "format" : "application/json",
-    "profile" : "http://www.europeana.eu/schemas/edm/"
-  }, {
-    "id" : "https://api.europeana.eu/record/2020702/raa_fmi_10073200450001.rdf",
-    "type" : "Dataset",
-    "format" : "application/rdf+xml",
-    "profile" : "http://www.europeana.eu/schemas/edm/"
-  } ],
-  "service" : [ {
-    "@context" : "http://iiif.io/api/search/1/context.json",
-    "id" : "https://iiif.europeana.eu/presentation/2020702/raa_fmi_10073200450001/search",
-    "profile" : "http://iiif.io/api/search/1/search"
-  } ],
-  "start" : {
-    "id" : "https://iiif.europeana.eu/presentation/2020702/raa_fmi_10073200450001/canvas/p1",
-    "type" : "Canvas"
-  },
-  "items" : [ {
-    "id" : "https://iiif.europeana.eu/presentation/2020702/raa_fmi_10073200450001/canvas/p1",
-    "type" : "Canvas",
-    "label" : {
-      "@none" : [ "p. 1" ]
-    },
-    "height" : 2304,
-    "width" : 2832,
-    "requiredStatement" : {
-      "label" : {
-        "en" : [ "Attribution" ]
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "dc:title"
+        ]
       },
-      "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2020702/raa_fmi_10073200450001' target='_blank' rel='noopener'>Field with fossil arable land</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.fmis.raa.se/cocoon/fornsok/search.html?tab=3&page=1&objektid=10073200450001' target='_blank' rel='noopener'>Riksantikvarieämbetet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      "value": {
+        "en": [
+          "Kundeling archives ID 1000 (012 2-1/#/2/5/3)"
+        ]
       }
     },
-    "items" : [ {
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "type" : "Annotation",
-        "motivation" : "painting",
-        "body" : {
-          "id" : "http://www.fmis.raa.se/fmis/bilder/07/0781/732/dokument/732-0045-01-D.jpg",
-          "type" : "Image",
-          "format" : "image/jpeg",
-          "height" : 2304,
-          "width" : 2832
-        },
-        "target" : "https://iiif.europeana.eu/presentation/2020702/raa_fmi_10073200450001/canvas/p1"
-      } ]
-    } ],
-    "thumbnail" : [ {
-      "id" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.fmis.raa.se%2Ffmis%2Fbilder%2F07%2F0781%2F732%2Fdokument%2F732-0045-01-D.jpg&type=TEXT",
-      "type" : "Image"
-    } ]
-  } ],
-  "provider" : [ {
-    "id" : "https://www.europeana.eu/en/about-us",
-    "type" : "Agent",
-    "homepage" : [ {
-      "id" : "https://www.europeana.eu",
-      "type" : "Text",
-      "label" : {
-        "en" : [ "Europeana" ]
+    {
+      "label": {
+        "none": [
+          "dtab:invisible"
+        ]
       },
-      "format" : "text/html"
-    } ],
-    "logo" : [ {
-      "id" : "https://style.europeana.eu/images/europeana-logo-default.png",
-      "type" : "Image"
-    } ]
-  } ]
+      "value": {
+        "none": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:archive_signatory"
+        ]
+      },
+      "value": {
+        "none": [
+          "012 2-1/#/2/5/3"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:comment_place"
+        ]
+      },
+      "value": {
+        "en": [
+          "n. p."
+        ],
+        "bo": [
+          "n. p."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:sender"
+        ]
+      },
+      "value": {
+        "en": [
+          "Zhabs drung bdag mo"
+        ],
+        "bo": [
+          "ཞབས་དྲུང་བདག་མོ"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:sender_comment"
+        ]
+      },
+      "value": {
+        "en": [
+          "Zhabs-drung bdag-mo"
+        ],
+        "bo": [
+          "ཞབས་དྲུང་བདག་མོ"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:comment_about_types_of_document"
+        ]
+      },
+      "value": {
+        "en": [
+          "AN: brtan-khra / bka'-shog"
+        ],
+        "bo": [
+          "AN:་བརྟན་ཁྲ་/་བཀའ་ཤོག"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:seal_id"
+        ]
+      },
+      "value": {
+        "none": [
+          "249"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:date_description_id"
+        ]
+      },
+      "value": {
+        "none": [
+          "932"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:archive_id"
+        ]
+      },
+      "value": {
+        "none": [
+          "1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:date_id"
+        ]
+      },
+      "value": {
+        "none": [
+          "932"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:description_date"
+        ]
+      },
+      "value": {
+        "none": [
+          "2 VII lcags-glang TAL: 1541"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "schema:comment"
+        ]
+      },
+      "value": {
+        "en": [
+          "Author mentioned the issue of “bka'-shog” by Yar-rgyab. Part of the destinator's name is unreadable."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "id"
+        ]
+      },
+      "value": {
+        "none": [
+          "1000"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "schema:text"
+        ]
+      },
+      "value": {
+        "en": [
+          "\n\nDescription  For  Group1-5:   ཡཪ་རྒྱབ་དང་   ཞབས་དྲུང་བདག་མོ་བཅས་ཀྱིས་    མཚཪ་སྣ་\n\nབའི་ཞིང་ཉི་\nམ་རྣམ་རྒྱལ་སོགས་ལ་བདག་ཐོབ་སྩལ་བའི་བཀའ་ཤོག་གྲངས་ ༥\nལྕགས་གླང་           ལྕགས་ཡོས་\n   ༡༥༤༡             ༡༥༩༡\n\nTitle:                            ༈༙   ཞབས་དྲུང་བདག་མོའི་དྲུང་གི་བཀའ་ཤོག་་་་་་་་་་\nShort Description:       ཞབས་དྲུང་བདག་མོས་     མཚཪ་སྣའི་ཞིང་ཉི་མ་རྣམ་རྒྱལ་ལ་བདག་ཐོབ་སྩལ་\n\nབའི་བཀའ་ཤོག་ ༡         ལྕགས་གླང་\n                       ༡༥༤༡\n\nPackage:                    ཚཪ་སྣ་ཁུལ་གྱི་བཀའ་ཤོག་ཁག་\nMain Text:                 ་་་་་་  ཚཪ་སྣའི་ཞིང་གི་བརྟན་ཁྲ་།\n\n                                         ་་་་་་་་་་་་་་་་་་ \n   མཚཪ་པ་སྣའི་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་བ་   ཉི་མ་རྣམ་རྒྱལ་་་་་་་་་་་་་་་་་་་་་་་\nནས་ཞིང་གསུམ་གྱི་འཇགས་གནས་སྣང་འདུག་པའི་རྒྱབ་སྣོན་དུ་ཡཪ་རྒྱབ་ནས་ཀྱང་བཀའ་ཤོག་སྣང་འདུག་པ་\nདང་    དཪ་སྒོས་ངེད་ཪང་ལ་ཡང་ཞུ་རྟེན་སྤམས་མི་ཆུང་རྩམ་ཕུལ་བྱུང་བཪ་   དགེ་རྒྱུན་ལ་དམིགས་\nཞིཪ་གསུམ་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་འདྲ་ཡིན་བྱེད་ཪུང་བྱི་སྲིད་བཪ་རྩང་མཪ་འཇགས་སུ་བཅུག་པ་ཡིན་      ་་་་་་་་་་་་་གླང་\n                   ཟླ་བ་བདུན་པའི་ཚེས་གཉིས་ལ་བྲིས་།    འདི་པའི་མད་དུ་སྒ་རྩཪ་\nབཅཪ་དགོས་པ་ཞིབ་་་་་་་་་་་་་་་་་་་་      ཞུ་བརྟེན་ཀྱང་སྤམས་ཆེ་བ་ཕུལ་བྱུང་བས་   གོང་བཞིན་འཇགས་\nགནས་བྱེད་རྒྱུ་ཡིན་།\n"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:used_scripts"
+        ]
+      },
+      "value": {
+        "en": [
+          "c + one line cs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:transcription_files"
+        ]
+      },
+      "value": {
+        "none": [
+          "PDF/k1000.pdf"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:gpos"
+        ]
+      },
+      "value": {
+        "none": [
+          "5"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:seal_color_orig"
+        ]
+      },
+      "value": {
+        "en": [
+          "black"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:name_of_archive"
+        ]
+      },
+      "value": {
+        "en": [
+          "Kundeling archives"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:script_id_role"
+        ]
+      },
+      "value": {
+        "none": [
+          "1150"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:sender_id"
+        ]
+      },
+      "value": {
+        "none": [
+          "827"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:seal_form_orig"
+        ]
+      },
+      "value": {
+        "en": [
+          "round seal"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "schema:recipient"
+        ]
+      },
+      "value": {
+        "en": [
+          "?"
+        ],
+        "bo": [
+          "?"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dc:date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1541"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:script"
+        ]
+      },
+      "value": {
+        "en": [
+          "Chancellor-Script",
+          "Cursive"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:preview_image_files"
+        ]
+      },
+      "value": {
+        "en": [
+          "k1015a_s.jpg",
+          "k1015_s.jpg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:groupno"
+        ]
+      },
+      "value": {
+        "none": [
+          "102"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:id_in_archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "1000"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "schema:name"
+        ]
+      },
+      "value": {
+        "none": [
+          "dtab"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:html_files"
+        ]
+      },
+      "value": {
+        "none": [
+          "Kundeling archives.html"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:document_id"
+        ]
+      },
+      "value": {
+        "none": [
+          "1000"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:place_comment"
+        ]
+      },
+      "value": {
+        "en": [
+          "n. p."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:seal_info"
+        ]
+      },
+      "value": {
+        "en": [
+          "Seal ID249: round seal, black."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:seal_form"
+        ]
+      },
+      "value": {
+        "en": [
+          "round"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "dtab:seal_color"
+        ]
+      },
+      "value": {
+        "en": [
+          "black"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "dtab:seal_image_files"
+        ]
+      },
+      "value": {
+        "none": [
+          "012_2-1_#_2_5_3.jpg"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Kundeling archives ID 1000 (012 2-1/#/2/5/3)"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Info"
+      ]
+    },
+    "value": {
+      "en": [
+        "The database Digital Tibetan Archives Bonn (DTAB) is a collection of more than 4400 handwritten Tibetan legal texts, which were digitized and described within two research projects led by Prof. Dr. Peter Schwieger 1999-2005."
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/licenses/by/4.0/",
+  "homepage": [
+    {
+      "id": "https://iiif.crossasia.org",
+      "type": "Text"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/canvas",
+      "type": "Canvas",
+      "height": 879,
+      "width": 785,
+      "label": {
+        "none": [
+          "canvas: k1015x"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "schema:position"
+            ]
+          },
+          "value": {
+            "none": [
+              "2"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821716/models?format=json&version=source&m=817436&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 879,
+                "width": 785,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821716/models?format=w3c-annotation&version=source&m=817436&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/canvas",
+      "type": "Canvas",
+      "height": 2368,
+      "width": 2594,
+      "label": {
+        "none": [
+          "canvas: k1015ax"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "schema:position"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821717/models?format=json&version=source&m=817436&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2368,
+                "width": 2594,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821717/models?format=w3c-annotation&version=source&m=817436&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/canvas",
+      "type": "Canvas",
+      "height": 119,
+      "width": 127,
+      "label": {
+        "none": [
+          "canvas: 012_2-1_#_2_5_3"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "schema:position"
+            ]
+          },
+          "value": {
+            "none": [
+              "3"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821718/models?format=json&version=source&m=817436&selectors=true",
+          "type": "Dataset",
+          "format": "application/json",
+          "profile": "https://madoc.io/capture-models/json/v1.0"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/canvas",
+              "body": {
+                "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 119,
+                "width": 127,
+                "service": [
+                  {
+                    "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821718/models?format=w3c-annotation&version=source&m=817436&selectors=true",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Annotations"
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }
