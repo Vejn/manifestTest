@@ -1,11 +1,9 @@
 {
   "@context" : [ "http://www.w3.org/ns/anno.jsonld", "http://iiif.io/api/presentation/3/context.json" ],
-  "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/manifest",
+  "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/manifest",
   "type" : "Manifest",
   "label" : {
-    "de" : [ "Berliner Tageblatt - 1899-01-05" ],
-    "en" : [ "Berliner Tageblatt - 1899-01-05" ],
-    "@none" : [ "Berliner Tageblatt - 1899-01-05" ]
+    "@none" : [ "Jaunā Dienas Lapa - 1914-04-28" ]
   },
   "metadata" : [ {
     "label" : {
@@ -54,28 +52,35 @@
       "en" : [ "language" ]
     },
     "value" : {
-      "@none" : [ "de" ]
+      "@none" : [ "lv" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "source" ]
+    },
+    "value" : {
+      "@none" : [ "<a href='http://data.lnb.lv/digitala_biblioteka/laikraksti/JaunaDienasLapa/index.htm'>http://data.lnb.lv/digitala_biblioteka/laikraksti/JaunaDienasLapa/index.htm</a>" ]
     }
   } ],
   "thumbnail" : [ {
-    "id" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.europeana.eu%2Fimage%2FM6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA%2Fpresentation_images%2Fa5c9b630-fd4c-11e5-bc8a-fa163e60dd72%2Fnode-2%2Fimage%2FSBB%2FBerliner_Tageblatt%2F1899%2F01%2F05%2F0%2FF_SBB_00001_18990105_028_009_0_001%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT",
+    "id" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.europeana.eu%2Fimage%2FKRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA%2Fpresentation_images%2F67746300-02d1-11e6-95c4-fa163e60dd72%2Fnode-1%2Fimage%2FNLL%2FJaun%C4%81_Dienas_Lapa%2F1914%2F04%2F28%2FJaunaDienasLapa1914-095-01%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT",
     "type" : "Image"
   } ],
   "homepage" : [ {
-    "id" : "https://www.europeana.eu/item/9200355/BibliographicResource_3000097458212",
+    "id" : "https://www.europeana.eu/item/9200303/BibliographicResource_3000059895220",
     "type" : "Text",
     "label" : {
       "en" : [ "Europeana" ]
     },
     "format" : "text/html"
   } ],
-  "navDate" : "1899-01-05T00:00:00Z",
+  "navDate" : "1914-04-28T00:00:00Z",
   "requiredStatement" : {
     "label" : {
       "en" : [ "Attribution" ]
     },
     "value" : {
-      "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200303/BibliographicResource_3000059895220' target='_blank' rel='noopener'>Jaunā Dienas Lapa - 1914-04-28</a></dd><dt>Institution</dt><dd lang=''>Latvijas Nacionālā bibliotēka</dd><dt>Country</dt><dd lang=''>Latvia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
     }
   },
   "rights" : {
@@ -84,44 +89,44 @@
     "format" : "text/html"
   },
   "seeAlso" : [ {
-    "id" : "https://api.europeana.eu/record/9200355/BibliographicResource_3000097458212.json-ld",
+    "id" : "https://api.europeana.eu/record/9200303/BibliographicResource_3000059895220.json-ld",
     "type" : "Dataset",
     "format" : "application/ld+json",
     "profile" : "http://www.europeana.eu/schemas/edm/"
   }, {
-    "id" : "https://api.europeana.eu/record/9200355/BibliographicResource_3000097458212.json",
+    "id" : "https://api.europeana.eu/record/9200303/BibliographicResource_3000059895220.json",
     "type" : "Dataset",
     "format" : "application/json",
     "profile" : "http://www.europeana.eu/schemas/edm/"
   }, {
-    "id" : "https://api.europeana.eu/record/9200355/BibliographicResource_3000097458212.rdf",
+    "id" : "https://api.europeana.eu/record/9200303/BibliographicResource_3000059895220.rdf",
     "type" : "Dataset",
     "format" : "application/rdf+xml",
     "profile" : "http://www.europeana.eu/schemas/edm/"
   } ],
   "service" : [ {
     "@context" : "http://iiif.io/api/search/1/context.json",
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/search",
+    "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/search",
     "profile" : "http://iiif.io/api/search/1/search"
   } ],
   "start" : {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p1",
+    "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p1",
     "type" : "Canvas"
   },
   "items" : [ {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p1",
+    "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p1",
     "type" : "Canvas",
     "label" : {
       "@none" : [ "p. 1" ]
     },
-    "height" : 3700,
-    "width" : 2551,
+    "height" : 2663,
+    "width" : 1993,
     "requiredStatement" : {
       "label" : {
         "en" : [ "Attribution" ]
       },
       "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200303/BibliographicResource_3000059895220' target='_blank' rel='noopener'>Jaunā Dienas Lapa - 1914-04-28</a></dd><dt>Institution</dt><dd lang=''>Latvijas Nacionālā bibliotēka</dd><dt>Country</dt><dd lang=''>Latvia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
       }
     },
     "items" : [ {
@@ -130,41 +135,41 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_001/full/full/0/default.jpg",
+          "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-01/full/full/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "service" : {
-            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_001",
+            "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-01",
             "profile" : "http://iiif.io/api/image/2/level1.json",
             "type" : "ImageService3"
           },
-          "height" : 3700,
-          "width" : 2551,
-          "language" : "de"
+          "height" : 2663,
+          "width" : 1993,
+          "language" : "lv"
         },
-        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p1"
+        "target" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p1"
       } ]
     } ],
     "annotations" : [ {
-      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/fc82f93?lang=de",
+      "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/annopage/a7c4f77?lang=lv",
       "type" : "AnnotationPage",
-      "language" : "de",
+      "language" : "lv",
       "textGranularity" : [ "block", "line", "page", "word" ]
     } ]
   }, {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p2",
+    "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p2",
     "type" : "Canvas",
     "label" : {
       "@none" : [ "p. 2" ]
     },
-    "height" : 3759,
-    "width" : 2532,
+    "height" : 2688,
+    "width" : 2009,
     "requiredStatement" : {
       "label" : {
         "en" : [ "Attribution" ]
       },
       "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200303/BibliographicResource_3000059895220' target='_blank' rel='noopener'>Jaunā Dienas Lapa - 1914-04-28</a></dd><dt>Institution</dt><dd lang=''>Latvijas Nacionālā bibliotēka</dd><dt>Country</dt><dd lang=''>Latvia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
       }
     },
     "items" : [ {
@@ -173,41 +178,41 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_002/full/full/0/default.jpg",
+          "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-02/full/full/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "service" : {
-            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_002",
+            "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-02",
             "profile" : "http://iiif.io/api/image/2/level1.json",
             "type" : "ImageService3"
           },
-          "height" : 3759,
-          "width" : 2532,
-          "language" : "de"
+          "height" : 2688,
+          "width" : 2009,
+          "language" : "lv"
         },
-        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p2"
+        "target" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p2"
       } ]
     } ],
     "annotations" : [ {
-      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/5e5d5e7?lang=de",
+      "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/annopage/bf01e38?lang=lv",
       "type" : "AnnotationPage",
-      "language" : "de",
+      "language" : "lv",
       "textGranularity" : [ "block", "line", "page", "word" ]
     } ]
   }, {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p3",
+    "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p3",
     "type" : "Canvas",
     "label" : {
       "@none" : [ "p. 3" ]
     },
-    "height" : 3700,
-    "width" : 2558,
+    "height" : 2700,
+    "width" : 2001,
     "requiredStatement" : {
       "label" : {
         "en" : [ "Attribution" ]
       },
       "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200303/BibliographicResource_3000059895220' target='_blank' rel='noopener'>Jaunā Dienas Lapa - 1914-04-28</a></dd><dt>Institution</dt><dd lang=''>Latvijas Nacionālā bibliotēka</dd><dt>Country</dt><dd lang=''>Latvia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
       }
     },
     "items" : [ {
@@ -216,41 +221,41 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_003/full/full/0/default.jpg",
+          "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-03/full/full/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "service" : {
-            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_003",
+            "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-03",
             "profile" : "http://iiif.io/api/image/2/level1.json",
             "type" : "ImageService3"
           },
-          "height" : 3700,
-          "width" : 2558,
-          "language" : "de"
+          "height" : 2700,
+          "width" : 2001,
+          "language" : "lv"
         },
-        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p3"
+        "target" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p3"
       } ]
     } ],
     "annotations" : [ {
-      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/c5590f7?lang=de",
+      "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/annopage/49315ae?lang=lv",
       "type" : "AnnotationPage",
-      "language" : "de",
+      "language" : "lv",
       "textGranularity" : [ "block", "line", "page", "word" ]
     } ]
   }, {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p4",
+    "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p4",
     "type" : "Canvas",
     "label" : {
       "@none" : [ "p. 4" ]
     },
-    "height" : 3759,
-    "width" : 2539,
+    "height" : 2675,
+    "width" : 1993,
     "requiredStatement" : {
       "label" : {
         "en" : [ "Attribution" ]
       },
       "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200303/BibliographicResource_3000059895220' target='_blank' rel='noopener'>Jaunā Dienas Lapa - 1914-04-28</a></dd><dt>Institution</dt><dd lang=''>Latvijas Nacionālā bibliotēka</dd><dt>Country</dt><dd lang=''>Latvia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
       }
     },
     "items" : [ {
@@ -259,41 +264,41 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_004/full/full/0/default.jpg",
+          "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-04/full/full/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "service" : {
-            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_004",
+            "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-04",
             "profile" : "http://iiif.io/api/image/2/level1.json",
             "type" : "ImageService3"
           },
-          "height" : 3759,
-          "width" : 2539,
-          "language" : "de"
+          "height" : 2675,
+          "width" : 1993,
+          "language" : "lv"
         },
-        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p4"
+        "target" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p4"
       } ]
     } ],
     "annotations" : [ {
-      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/428e448?lang=de",
+      "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/annopage/4d9355b?lang=lv",
       "type" : "AnnotationPage",
-      "language" : "de",
+      "language" : "lv",
       "textGranularity" : [ "block", "line", "page", "word" ]
     } ]
   }, {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p5",
+    "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p5",
     "type" : "Canvas",
     "label" : {
       "@none" : [ "p. 5" ]
     },
-    "height" : 3698,
-    "width" : 2555,
+    "height" : 2717,
+    "width" : 2017,
     "requiredStatement" : {
       "label" : {
         "en" : [ "Attribution" ]
       },
       "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200303/BibliographicResource_3000059895220' target='_blank' rel='noopener'>Jaunā Dienas Lapa - 1914-04-28</a></dd><dt>Institution</dt><dd lang=''>Latvijas Nacionālā bibliotēka</dd><dt>Country</dt><dd lang=''>Latvia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
       }
     },
     "items" : [ {
@@ -302,41 +307,41 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_005/full/full/0/default.jpg",
+          "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-05/full/full/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "service" : {
-            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_005",
+            "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-05",
             "profile" : "http://iiif.io/api/image/2/level1.json",
             "type" : "ImageService3"
           },
-          "height" : 3698,
-          "width" : 2555,
-          "language" : "de"
+          "height" : 2717,
+          "width" : 2017,
+          "language" : "lv"
         },
-        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p5"
+        "target" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p5"
       } ]
     } ],
     "annotations" : [ {
-      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/55a5454?lang=de",
+      "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/annopage/8e6497c?lang=lv",
       "type" : "AnnotationPage",
-      "language" : "de",
+      "language" : "lv",
       "textGranularity" : [ "block", "line", "page", "word" ]
     } ]
   }, {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p6",
+    "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p6",
     "type" : "Canvas",
     "label" : {
       "@none" : [ "p. 6" ]
     },
-    "height" : 3759,
-    "width" : 2536,
+    "height" : 2667,
+    "width" : 2001,
     "requiredStatement" : {
       "label" : {
         "en" : [ "Attribution" ]
       },
       "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200303/BibliographicResource_3000059895220' target='_blank' rel='noopener'>Jaunā Dienas Lapa - 1914-04-28</a></dd><dt>Institution</dt><dd lang=''>Latvijas Nacionālā bibliotēka</dd><dt>Country</dt><dd lang=''>Latvia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
       }
     },
     "items" : [ {
@@ -345,111 +350,25 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_006/full/full/0/default.jpg",
+          "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-06/full/full/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "service" : {
-            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_006",
+            "id" : "https://iiif.europeana.eu/image/KRAVNHZXYCJFXDBJCA4ZCMRIHJ7BP2HS4ZQ6SRDJVFP75PG7JPLA/presentation_images/67746300-02d1-11e6-95c4-fa163e60dd72/node-1/image/NLL/Jaunā_Dienas_Lapa/1914/04/28/JaunaDienasLapa1914-095-06",
             "profile" : "http://iiif.io/api/image/2/level1.json",
             "type" : "ImageService3"
           },
-          "height" : 3759,
-          "width" : 2536,
-          "language" : "de"
+          "height" : 2667,
+          "width" : 2001,
+          "language" : "lv"
         },
-        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p6"
+        "target" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/canvas/p6"
       } ]
     } ],
     "annotations" : [ {
-      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/a7032bb?lang=de",
+      "id" : "https://iiif.europeana.eu/presentation/9200303/BibliographicResource_3000059895220/annopage/50a723f?lang=lv",
       "type" : "AnnotationPage",
-      "language" : "de",
-      "textGranularity" : [ "block", "line", "page", "word" ]
-    } ]
-  }, {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p7",
-    "type" : "Canvas",
-    "label" : {
-      "@none" : [ "p. 7" ]
-    },
-    "height" : 3698,
-    "width" : 2555,
-    "requiredStatement" : {
-      "label" : {
-        "en" : [ "Attribution" ]
-      },
-      "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
-      }
-    },
-    "items" : [ {
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "type" : "Annotation",
-        "motivation" : "painting",
-        "body" : {
-          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_007/full/full/0/default.jpg",
-          "type" : "Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_007",
-            "profile" : "http://iiif.io/api/image/2/level1.json",
-            "type" : "ImageService3"
-          },
-          "height" : 3698,
-          "width" : 2555,
-          "language" : "de"
-        },
-        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p7"
-      } ]
-    } ],
-    "annotations" : [ {
-      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/796d8cf?lang=de",
-      "type" : "AnnotationPage",
-      "language" : "de",
-      "textGranularity" : [ "block", "line", "page", "word" ]
-    } ]
-  }, {
-    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p8",
-    "type" : "Canvas",
-    "label" : {
-      "@none" : [ "p. 8" ]
-    },
-    "height" : 3760,
-    "width" : 2527,
-    "requiredStatement" : {
-      "label" : {
-        "en" : [ "Attribution" ]
-      },
-      "value" : {
-        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
-      }
-    },
-    "items" : [ {
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "type" : "Annotation",
-        "motivation" : "painting",
-        "body" : {
-          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_008/full/full/0/default.jpg",
-          "type" : "Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_008",
-            "profile" : "http://iiif.io/api/image/2/level1.json",
-            "type" : "ImageService3"
-          },
-          "height" : 3760,
-          "width" : 2527,
-          "language" : "de"
-        },
-        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p8"
-      } ]
-    } ],
-    "annotations" : [ {
-      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/1080c7d?lang=de",
-      "type" : "AnnotationPage",
-      "language" : "de",
+      "language" : "lv",
       "textGranularity" : [ "block", "line", "page", "word" ]
     } ]
   } ],
