@@ -1,736 +1,472 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://itr02.crossasia.org/fcrepo/rest/dtab/1000/manifest",
-  "type": "Manifest",
-  "label": {
-    "en": [
-      "Kundeling archives ID 1000 (012 2-1/#/2/5/3)"
-    ]
+  "@context" : [ "http://www.w3.org/ns/anno.jsonld", "http://iiif.io/api/presentation/3/context.json" ],
+  "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/manifest",
+  "type" : "Manifest",
+  "label" : {
+    "de" : [ "Berliner Tageblatt - 1899-01-05" ],
+    "en" : [ "Berliner Tageblatt - 1899-01-05" ],
+    "@none" : [ "Berliner Tageblatt - 1899-01-05" ]
   },
-  "metadata": [
-    {
-      "label": {
-        "en": [
-          "dc:title"
-        ]
-      },
-      "value": {
-        "en": [
-          "Kundeling archives ID 1000 (012 2-1/#/2/5/3)"
-        ]
-      }
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "type" ]
     },
-    {
-      "label": {
-        "none": [
-          "dtab:invisible"
-        ]
-      },
-      "value": {
-        "none": [
-          "0"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:archive_signatory"
-        ]
-      },
-      "value": {
-        "none": [
-          "012 2-1/#/2/5/3"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:comment_place"
-        ]
-      },
-      "value": {
-        "en": [
-          "n. p."
-        ],
-        "bo": [
-          "n. p."
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:sender"
-        ]
-      },
-      "value": {
-        "en": [
-          "Zhabs drung bdag mo"
-        ],
-        "bo": [
-          "ཞབས་དྲུང་བདག་མོ"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:sender_comment"
-        ]
-      },
-      "value": {
-        "en": [
-          "Zhabs-drung bdag-mo"
-        ],
-        "bo": [
-          "ཞབས་དྲུང་བདག་མོ"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:comment_about_types_of_document"
-        ]
-      },
-      "value": {
-        "en": [
-          "AN: brtan-khra / bka'-shog"
-        ],
-        "bo": [
-          "AN:་བརྟན་ཁྲ་/་བཀའ་ཤོག"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:seal_id"
-        ]
-      },
-      "value": {
-        "none": [
-          "249"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:date_description_id"
-        ]
-      },
-      "value": {
-        "none": [
-          "932"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:archive_id"
-        ]
-      },
-      "value": {
-        "none": [
-          "1"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:date_id"
-        ]
-      },
-      "value": {
-        "none": [
-          "932"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:description_date"
-        ]
-      },
-      "value": {
-        "none": [
-          "2 VII lcags-glang TAL: 1541"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "schema:comment"
-        ]
-      },
-      "value": {
-        "en": [
-          "Author mentioned the issue of “bka'-shog” by Yar-rgyab. Part of the destinator's name is unreadable."
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "id"
-        ]
-      },
-      "value": {
-        "none": [
-          "1000"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "schema:text"
-        ]
-      },
-      "value": {
-        "en": [
-          "\n\nDescription  For  Group1-5:   ཡཪ་རྒྱབ་དང་   ཞབས་དྲུང་བདག་མོ་བཅས་ཀྱིས་    མཚཪ་སྣ་\n\nབའི་ཞིང་ཉི་\nམ་རྣམ་རྒྱལ་སོགས་ལ་བདག་ཐོབ་སྩལ་བའི་བཀའ་ཤོག་གྲངས་ ༥\nལྕགས་གླང་           ལྕགས་ཡོས་\n   ༡༥༤༡             ༡༥༩༡\n\nTitle:                            ༈༙   ཞབས་དྲུང་བདག་མོའི་དྲུང་གི་བཀའ་ཤོག་་་་་་་་་་\nShort Description:       ཞབས་དྲུང་བདག་མོས་     མཚཪ་སྣའི་ཞིང་ཉི་མ་རྣམ་རྒྱལ་ལ་བདག་ཐོབ་སྩལ་\n\nབའི་བཀའ་ཤོག་ ༡         ལྕགས་གླང་\n                       ༡༥༤༡\n\nPackage:                    ཚཪ་སྣ་ཁུལ་གྱི་བཀའ་ཤོག་ཁག་\nMain Text:                 ་་་་་་  ཚཪ་སྣའི་ཞིང་གི་བརྟན་ཁྲ་།\n\n                                         ་་་་་་་་་་་་་་་་་་ \n   མཚཪ་པ་སྣའི་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་བ་   ཉི་མ་རྣམ་རྒྱལ་་་་་་་་་་་་་་་་་་་་་་་\nནས་ཞིང་གསུམ་གྱི་འཇགས་གནས་སྣང་འདུག་པའི་རྒྱབ་སྣོན་དུ་ཡཪ་རྒྱབ་ནས་ཀྱང་བཀའ་ཤོག་སྣང་འདུག་པ་\nདང་    དཪ་སྒོས་ངེད་ཪང་ལ་ཡང་ཞུ་རྟེན་སྤམས་མི་ཆུང་རྩམ་ཕུལ་བྱུང་བཪ་   དགེ་རྒྱུན་ལ་དམིགས་\nཞིཪ་གསུམ་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་་འདྲ་ཡིན་བྱེད་ཪུང་བྱི་སྲིད་བཪ་རྩང་མཪ་འཇགས་སུ་བཅུག་པ་ཡིན་      ་་་་་་་་་་་་་གླང་\n                   ཟླ་བ་བདུན་པའི་ཚེས་གཉིས་ལ་བྲིས་།    འདི་པའི་མད་དུ་སྒ་རྩཪ་\nབཅཪ་དགོས་པ་ཞིབ་་་་་་་་་་་་་་་་་་་་      ཞུ་བརྟེན་ཀྱང་སྤམས་ཆེ་བ་ཕུལ་བྱུང་བས་   གོང་བཞིན་འཇགས་\nགནས་བྱེད་རྒྱུ་ཡིན་།\n"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:used_scripts"
-        ]
-      },
-      "value": {
-        "en": [
-          "c + one line cs"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:transcription_files"
-        ]
-      },
-      "value": {
-        "none": [
-          "PDF/k1000.pdf"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:gpos"
-        ]
-      },
-      "value": {
-        "none": [
-          "5"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:seal_color_orig"
-        ]
-      },
-      "value": {
-        "en": [
-          "black"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:name_of_archive"
-        ]
-      },
-      "value": {
-        "en": [
-          "Kundeling archives"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:script_id_role"
-        ]
-      },
-      "value": {
-        "none": [
-          "1150"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:sender_id"
-        ]
-      },
-      "value": {
-        "none": [
-          "827"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:seal_form_orig"
-        ]
-      },
-      "value": {
-        "en": [
-          "round seal"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "schema:recipient"
-        ]
-      },
-      "value": {
-        "en": [
-          "?"
-        ],
-        "bo": [
-          "?"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dc:date"
-        ]
-      },
-      "value": {
-        "none": [
-          "1541"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:script"
-        ]
-      },
-      "value": {
-        "en": [
-          "Chancellor-Script",
-          "Cursive"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:preview_image_files"
-        ]
-      },
-      "value": {
-        "en": [
-          "k1015a_s.jpg",
-          "k1015_s.jpg"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:groupno"
-        ]
-      },
-      "value": {
-        "none": [
-          "102"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:id_in_archive"
-        ]
-      },
-      "value": {
-        "none": [
-          "1000"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "schema:name"
-        ]
-      },
-      "value": {
-        "none": [
-          "dtab"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:html_files"
-        ]
-      },
-      "value": {
-        "none": [
-          "Kundeling archives.html"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:document_id"
-        ]
-      },
-      "value": {
-        "none": [
-          "1000"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:place_comment"
-        ]
-      },
-      "value": {
-        "en": [
-          "n. p."
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:seal_info"
-        ]
-      },
-      "value": {
-        "en": [
-          "Seal ID249: round seal, black."
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:seal_form"
-        ]
-      },
-      "value": {
-        "en": [
-          "round"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "dtab:seal_color"
-        ]
-      },
-      "value": {
-        "en": [
-          "black"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "dtab:seal_image_files"
-        ]
-      },
-      "value": {
-        "none": [
-          "012_2-1_#_2_5_3.jpg"
-        ]
-      }
+    "value" : {
+      "@none" : [ "<a href='http://data.europeana.eu/concept/18'>http://data.europeana.eu/concept/18</a>" ],
+      "de" : [ "Zeitung" ],
+      "fi" : [ "Sanomalehti" ],
+      "ru" : [ "Газета" ],
+      "pt" : [ "Jornal" ],
+      "bg" : [ "Вестник" ],
+      "lt" : [ "Laikraštis" ],
+      "hr" : [ "Novine" ],
+      "lv" : [ "Laikraksts" ],
+      "fr" : [ "Journal" ],
+      "hu" : [ "Újság" ],
+      "sk" : [ "Denník" ],
+      "sl" : [ "Časopis" ],
+      "ga" : [ "Nuachtán" ],
+      "ca" : [ "Periòdic" ],
+      "sv" : [ "Tidning" ],
+      "el" : [ "Εφημερίδα" ],
+      "mt" : [ "Gazzetta" ],
+      "en" : [ "Newspaper" ],
+      "it" : [ "Giornale" ],
+      "es" : [ "Periódico" ],
+      "et" : [ "Ajaleht" ],
+      "cs" : [ "Noviny" ],
+      "eu" : [ "Egunkari" ],
+      "pl" : [ "Gazeta" ],
+      "da" : [ "Avis" ],
+      "ro" : [ "Ziar" ],
+      "nl" : [ "Krant" ]
     }
-  ],
-  "summary": {
-    "en": [
-      "Kundeling archives ID 1000 (012 2-1/#/2/5/3)"
-    ]
-  },
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Info"
-      ]
+  }, {
+    "label" : {
+      "en" : [ "type" ]
     },
-    "value": {
-      "en": [
-        "The database Digital Tibetan Archives Bonn (DTAB) is a collection of more than 4400 handwritten Tibetan legal texts, which were digitized and described within two research projects led by Prof. Dr. Peter Schwieger 1999-2005."
-      ]
+    "value" : {
+      "@none" : [ "<a href='http://schema.org/PublicationIssue'>http://schema.org/PublicationIssue</a>" ],
+      "en" : [ "Analytic serial", "Newspaper", "Newspaper Issue" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "language" ]
+    },
+    "value" : {
+      "@none" : [ "de" ]
+    }
+  } ],
+  "thumbnail" : [ {
+    "id" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.europeana.eu%2Fimage%2FM6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA%2Fpresentation_images%2Fa5c9b630-fd4c-11e5-bc8a-fa163e60dd72%2Fnode-2%2Fimage%2FSBB%2FBerliner_Tageblatt%2F1899%2F01%2F05%2F0%2FF_SBB_00001_18990105_028_009_0_001%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT",
+    "type" : "Image"
+  } ],
+  "homepage" : [ {
+    "id" : "https://www.europeana.eu/item/9200355/BibliographicResource_3000097458212",
+    "type" : "Text",
+    "label" : {
+      "en" : [ "Europeana" ]
+    },
+    "format" : "text/html"
+  } ],
+  "navDate" : "1899-01-05T00:00:00Z",
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
     }
   },
-  "rights": "https://creativecommons.org/licenses/by/4.0/",
-  "homepage": [
-    {
-      "id": "https://iiif.crossasia.org",
-      "type": "Text"
-    }
-  ],
-  "items": [
-    {
-      "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/canvas",
-      "type": "Canvas",
-      "height": 879,
-      "width": 785,
-      "label": {
-        "none": [
-          "canvas: k1015x"
-        ]
-      },
-      "metadata": [
-        {
-          "label": {
-            "none": [
-              "schema:position"
-            ]
-          },
-          "value": {
-            "none": [
-              "2"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/full/512,/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "seeAlso": [
-        {
-          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821716/models?format=json&version=source&m=817436&selectors=true",
-          "type": "Dataset",
-          "format": "application/json",
-          "profile": "https://madoc.io/capture-models/json/v1.0"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/annotation",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/canvas",
-              "body": {
-                "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 879,
-                "width": 785,
-                "service": [
-                  {
-                    "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+2",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821716/models?format=w3c-annotation&version=source&m=817436&selectors=true",
-          "type": "AnnotationPage",
-          "label": {
-            "none": [
-              "Annotations"
-            ]
-          }
-        }
-      ]
+  "rights" : {
+    "id" : "http://creativecommons.org/publicdomain/mark/1.0/",
+    "type" : "Text",
+    "format" : "text/html"
+  },
+  "seeAlso" : [ {
+    "id" : "https://api.europeana.eu/record/9200355/BibliographicResource_3000097458212.json-ld",
+    "type" : "Dataset",
+    "format" : "application/ld+json",
+    "profile" : "http://www.europeana.eu/schemas/edm/"
+  }, {
+    "id" : "https://api.europeana.eu/record/9200355/BibliographicResource_3000097458212.json",
+    "type" : "Dataset",
+    "format" : "application/json",
+    "profile" : "http://www.europeana.eu/schemas/edm/"
+  }, {
+    "id" : "https://api.europeana.eu/record/9200355/BibliographicResource_3000097458212.rdf",
+    "type" : "Dataset",
+    "format" : "application/rdf+xml",
+    "profile" : "http://www.europeana.eu/schemas/edm/"
+  } ],
+  "service" : [ {
+    "@context" : "http://iiif.io/api/search/1/context.json",
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/search",
+    "profile" : "http://iiif.io/api/search/1/search"
+  } ],
+  "start" : {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p1",
+    "type" : "Canvas"
+  },
+  "items" : [ {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p1",
+    "type" : "Canvas",
+    "label" : {
+      "@none" : [ "p. 1" ]
     },
-    {
-      "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/canvas",
-      "type": "Canvas",
-      "height": 2368,
-      "width": 2594,
-      "label": {
-        "none": [
-          "canvas: k1015ax"
-        ]
+    "height" : 3700,
+    "width" : 2551,
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Attribution" ]
       },
-      "metadata": [
-        {
-          "label": {
-            "none": [
-              "schema:position"
-            ]
-          },
-          "value": {
-            "none": [
-              "1"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/full/512,/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "seeAlso": [
-        {
-          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821717/models?format=json&version=source&m=817436&selectors=true",
-          "type": "Dataset",
-          "format": "application/json",
-          "profile": "https://madoc.io/capture-models/json/v1.0"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/annotation",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/canvas",
-              "body": {
-                "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 2368,
-                "width": 2594,
-                "service": [
-                  {
-                    "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+1",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821717/models?format=w3c-annotation&version=source&m=817436&selectors=true",
-          "type": "AnnotationPage",
-          "label": {
-            "none": [
-              "Annotations"
-            ]
-          }
-        }
-      ]
+      "value" : {
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      }
     },
-    {
-      "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/canvas",
-      "type": "Canvas",
-      "height": 119,
-      "width": 127,
-      "label": {
-        "none": [
-          "canvas: 012_2-1_#_2_5_3"
-        ]
-      },
-      "metadata": [
-        {
-          "label": {
-            "none": [
-              "schema:position"
-            ]
+    "items" : [ {
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_001/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_001",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "type" : "ImageService3"
           },
-          "value": {
-            "none": [
-              "3"
-            ]
-          }
-        }
-      ],
-      "thumbnail": [
-        {
-          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/full/512,/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "seeAlso": [
-        {
-          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821718/models?format=json&version=source&m=817436&selectors=true",
-          "type": "Dataset",
-          "format": "application/json",
-          "profile": "https://madoc.io/capture-models/json/v1.0"
-        }
-      ],
-      "items": [
-        {
-          "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/annotation",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/canvas",
-              "body": {
-                "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 119,
-                "width": 127,
-                "service": [
-                  {
-                    "id": "https://iiif-content.crossasia.org/xasia/dtab+1000+3",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://iiif.crossasia.org/s/dtab/madoc/api/canvases/821718/models?format=w3c-annotation&version=source&m=817436&selectors=true",
-          "type": "AnnotationPage",
-          "label": {
-            "none": [
-              "Annotations"
-            ]
-          }
-        }
-      ]
-    }
-  ]
+          "height" : 3700,
+          "width" : 2551,
+          "language" : "de"
+        },
+        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p1"
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/fc82f93?lang=de",
+      "type" : "AnnotationPage",
+      "language" : "de",
+      "textGranularity" : [ "block", "line", "page", "word" ]
+    } ]
+  }, {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p2",
+    "type" : "Canvas",
+    "label" : {
+      "@none" : [ "p. 2" ]
+    },
+    "height" : 3759,
+    "width" : 2532,
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Attribution" ]
+      },
+      "value" : {
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      }
+    },
+    "items" : [ {
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_002/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_002",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "type" : "ImageService3"
+          },
+          "height" : 3759,
+          "width" : 2532,
+          "language" : "de"
+        },
+        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p2"
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/5e5d5e7?lang=de",
+      "type" : "AnnotationPage",
+      "language" : "de",
+      "textGranularity" : [ "block", "line", "page", "word" ]
+    } ]
+  }, {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p3",
+    "type" : "Canvas",
+    "label" : {
+      "@none" : [ "p. 3" ]
+    },
+    "height" : 3700,
+    "width" : 2558,
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Attribution" ]
+      },
+      "value" : {
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      }
+    },
+    "items" : [ {
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_003/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_003",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "type" : "ImageService3"
+          },
+          "height" : 3700,
+          "width" : 2558,
+          "language" : "de"
+        },
+        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p3"
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/c5590f7?lang=de",
+      "type" : "AnnotationPage",
+      "language" : "de",
+      "textGranularity" : [ "block", "line", "page", "word" ]
+    } ]
+  }, {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p4",
+    "type" : "Canvas",
+    "label" : {
+      "@none" : [ "p. 4" ]
+    },
+    "height" : 3759,
+    "width" : 2539,
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Attribution" ]
+      },
+      "value" : {
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      }
+    },
+    "items" : [ {
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_004/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_004",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "type" : "ImageService3"
+          },
+          "height" : 3759,
+          "width" : 2539,
+          "language" : "de"
+        },
+        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p4"
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/428e448?lang=de",
+      "type" : "AnnotationPage",
+      "language" : "de",
+      "textGranularity" : [ "block", "line", "page", "word" ]
+    } ]
+  }, {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p5",
+    "type" : "Canvas",
+    "label" : {
+      "@none" : [ "p. 5" ]
+    },
+    "height" : 3698,
+    "width" : 2555,
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Attribution" ]
+      },
+      "value" : {
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      }
+    },
+    "items" : [ {
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_005/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_005",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "type" : "ImageService3"
+          },
+          "height" : 3698,
+          "width" : 2555,
+          "language" : "de"
+        },
+        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p5"
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/55a5454?lang=de",
+      "type" : "AnnotationPage",
+      "language" : "de",
+      "textGranularity" : [ "block", "line", "page", "word" ]
+    } ]
+  }, {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p6",
+    "type" : "Canvas",
+    "label" : {
+      "@none" : [ "p. 6" ]
+    },
+    "height" : 3759,
+    "width" : 2536,
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Attribution" ]
+      },
+      "value" : {
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      }
+    },
+    "items" : [ {
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_006/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_006",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "type" : "ImageService3"
+          },
+          "height" : 3759,
+          "width" : 2536,
+          "language" : "de"
+        },
+        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p6"
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/a7032bb?lang=de",
+      "type" : "AnnotationPage",
+      "language" : "de",
+      "textGranularity" : [ "block", "line", "page", "word" ]
+    } ]
+  }, {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p7",
+    "type" : "Canvas",
+    "label" : {
+      "@none" : [ "p. 7" ]
+    },
+    "height" : 3698,
+    "width" : 2555,
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Attribution" ]
+      },
+      "value" : {
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      }
+    },
+    "items" : [ {
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_007/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_007",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "type" : "ImageService3"
+          },
+          "height" : 3698,
+          "width" : 2555,
+          "language" : "de"
+        },
+        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p7"
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/796d8cf?lang=de",
+      "type" : "AnnotationPage",
+      "language" : "de",
+      "textGranularity" : [ "block", "line", "page", "word" ]
+    } ]
+  }, {
+    "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p8",
+    "type" : "Canvas",
+    "label" : {
+      "@none" : [ "p. 8" ]
+    },
+    "height" : 3760,
+    "width" : 2527,
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "Attribution" ]
+      },
+      "value" : {
+        "en" : [ "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/9200355/BibliographicResource_3000097458212' target='_blank' rel='noopener'>Berliner Tageblatt - 1899-01-05</a></dd><dt>Institution</dt><dd lang=''>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>" ]
+      }
+    },
+    "items" : [ {
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_008/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "id" : "https://iiif.europeana.eu/image/M6RXD7KURGYY5GI55U7CP3XOVUGOEEFYVDC3VI77A4ROIRRXKAKA/presentation_images/a5c9b630-fd4c-11e5-bc8a-fa163e60dd72/node-2/image/SBB/Berliner_Tageblatt/1899/01/05/0/F_SBB_00001_18990105_028_009_0_008",
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "type" : "ImageService3"
+          },
+          "height" : 3760,
+          "width" : 2527,
+          "language" : "de"
+        },
+        "target" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/canvas/p8"
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://iiif.europeana.eu/presentation/9200355/BibliographicResource_3000097458212/annopage/1080c7d?lang=de",
+      "type" : "AnnotationPage",
+      "language" : "de",
+      "textGranularity" : [ "block", "line", "page", "word" ]
+    } ]
+  } ],
+  "provider" : [ {
+    "id" : "https://www.europeana.eu/en/about-us",
+    "type" : "Agent",
+    "homepage" : [ {
+      "id" : "https://www.europeana.eu",
+      "type" : "Text",
+      "label" : {
+        "en" : [ "Europeana" ]
+      },
+      "format" : "text/html"
+    } ],
+    "logo" : [ {
+      "id" : "https://style.europeana.eu/images/europeana-logo-default.png",
+      "type" : "Image"
+    } ]
+  } ]
 }
